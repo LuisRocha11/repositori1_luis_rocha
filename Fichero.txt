@@ -1,1 +1,2 @@
 FitxerRocha_Luis que el capiarem a github
+Afegeixo linea desde el repositori local
